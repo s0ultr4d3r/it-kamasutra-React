@@ -28,3 +28,4 @@ yarn-error.log*
 #eslint & prettier
 .eslintrc.js*
 .prettierrc.js
+.eslintcache
