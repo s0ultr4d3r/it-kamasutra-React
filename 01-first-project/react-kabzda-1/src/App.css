@@ -10,14 +10,16 @@
     "n c";
 }
 
-.header {
+/*.header {
   grid-area: h;
   background-color: green;
 }
 
 .header img {
   width: 100px;
+}*/
+
+.app-wrapper-content {
+  grid-area: c;
+  background-color: cornflowerblue;
 }
-
-
-
