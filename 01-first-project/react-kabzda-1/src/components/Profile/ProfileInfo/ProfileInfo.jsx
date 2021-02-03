@@ -6,7 +6,12 @@ const ProfileInfo = () => {
     <div>
       {" "}
       <div>
-        <img src="https://i.imgur.com/bHZAuNZ.jpg" width="1024" height="200" />
+        <img
+          src="https://i.imgur.com/bHZAuNZ.jpg"
+          width="1024"
+          height="200"
+          alt="profileTopImg"
+        />
       </div>
       <div className={s.descriptionBlock}>ava + description</div>
     </div>
